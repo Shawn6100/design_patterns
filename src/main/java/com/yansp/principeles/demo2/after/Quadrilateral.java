@@ -8,8 +8,8 @@ package com.yansp.principeles.demo2.after;
 public interface Quadrilateral {
 
     // 获取长
-    public double getLength();
+    double getLength();
 
     // 获取宽
-    public double getWidth();
+    double getWidth();
 }
